@@ -13,6 +13,8 @@
  
 ## Description
  * Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
+ * Admin are able to add in new managers and artists to the db to grow the community!
+ 
 ## User Stories
 
 ## Tools/Technologies
