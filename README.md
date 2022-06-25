@@ -12,7 +12,7 @@
  * [Questions](#questions)
  
 ## Description
- *Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
+ * Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
 ## User Stories
 
 ## Tools/Technologies
