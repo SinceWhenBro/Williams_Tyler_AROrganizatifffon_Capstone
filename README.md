@@ -33,7 +33,12 @@
 ## Installation Instructions
 
 ## Usage Instructions
-
+ * Register
+ * Login
+ * Click managers link to view alll managers
+ * Click artists to view all artists
+  * Add an artist, or update one OR delete one
+ 
 ## Future Features
  * I would like to limit the view of managers and artists dependent on their assigned role through security
 ## Testing 
