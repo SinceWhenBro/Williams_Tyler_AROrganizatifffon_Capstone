@@ -2,14 +2,14 @@
 
 ## Table of Contents
  * [Description](#description)
- * User Stories(#User-Stories)
- * Tools/Technologies(#Tools/Technologies)
- * Installation(#Installation Instructions)
- * Usage(#Usage Instructions)
- * Future Features(#Future Features)
- * Testing(#Testing)
- * Obstacles(#Obstacles)
- * Questions(#Questions)
+ * [User Stories](#user-stories)
+ * [Tools/Technologies](#tools/technologies)
+ * [Installation](#installation-instructions)
+ * [Usage](#usage-instructions)
+ * [Future Features](#future-features)
+ * [Testing](#testing)
+ * [Obstacles](#obstacles)
+ * [Questions](#questions)
  
 ## Description
 
