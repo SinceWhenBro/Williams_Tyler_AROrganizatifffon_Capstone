@@ -40,7 +40,6 @@
 
 ## Obstacles
 * Spring Security: I had issues developing roles in order to limit access
-* 
 ## Questions
 
 Contact me for further inquries(https://github.com/SinceWhenBro)
