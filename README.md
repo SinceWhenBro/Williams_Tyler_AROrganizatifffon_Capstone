@@ -36,8 +36,10 @@
  * Register
  * Login
  * Click managers link to view alll managers
+    * Add a manager, or update one OR delete one 
  * Click artists to view all artists
     * Add an artist, or update one OR delete one
+ * Logout
  
 ## Future Features
  * I would like to limit the view of managers and artists dependent on their assigned role through security
