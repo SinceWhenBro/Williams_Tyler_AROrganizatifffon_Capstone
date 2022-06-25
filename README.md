@@ -1,7 +1,7 @@
 # Williams_Tyler_AROrganization_Capstone
 
 ## Table of Contents
- * Description(#-description)
+ * Description(#description)
  * User Stories(#User-Stories)
  * Tools/Technologies(#Tools/Technologies)
  * Installation(#Installation Instructions)
