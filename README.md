@@ -50,7 +50,7 @@
 
 ## Table/ Wireframe
 #### Tables:
-![tabless](https://user-images.githubusercontent.com/70001770/176023554-cc389a7c-0d5d-4e70-a45f-0519e7457074.PNG)
+![image](https://user-images.githubusercontent.com/70001770/176027712-46dec631-305b-46f6-9eec-4b5338a4e805.png)
 
 #### Database:
 ![image](https://user-images.githubusercontent.com/70001770/176025482-dacf4e5e-b8da-4d86-af6f-35da76fde17b.png)
