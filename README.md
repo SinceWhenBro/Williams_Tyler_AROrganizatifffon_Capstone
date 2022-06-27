@@ -14,9 +14,9 @@
 ## Description
  * Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
  * Admin are able to add in new managers and artists to the db to grow the community!
-#### Login
+#### Login:
 ![image](https://user-images.githubusercontent.com/70001770/176023317-889d3ba6-fc1d-47e0-83c8-ef6e9c018bcd.png)
-#### Home
+#### Home:
 ![home](https://user-images.githubusercontent.com/70001770/176023174-96a7ce52-2a88-4c7c-9cd6-f294ba36577a.PNG)
 
  
@@ -49,10 +49,10 @@
  * I would also like to eventually implement a way for artists and managers to communciate
 
 ## Table/ Wireframe
-#### Tables
+#### Tables:
 ![tabless](https://user-images.githubusercontent.com/70001770/176023554-cc389a7c-0d5d-4e70-a45f-0519e7457074.PNG)
 
-#### Wireframe
+#### Wireframe:
 ![wireframe](https://user-images.githubusercontent.com/70001770/176023591-721d3c2b-82a5-438e-89ed-c5e601cd2c01.PNG)
 
 ## Obstacles
