@@ -14,6 +14,8 @@
 ## Description
  * Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
  * Admin are able to add in new managers and artists to the db to grow the community!
+ ![login](https://user-images.githubusercontent.com/70001770/175972813-4bcb637d-22ed-4ace-8859-87c5f8433afb.PNG)
+
  
 ## User Stories
  * As an artist I want to be able to view available managers in order to make connections in the music industry.
