@@ -49,7 +49,7 @@
  * I would also like to eventually implement a way for artists and managers to communciate
 
 ## Table/ Wireframe
-#### Table
+#### Tables
 ![tabless](https://user-images.githubusercontent.com/70001770/176023554-cc389a7c-0d5d-4e70-a45f-0519e7457074.PNG)
 
 #### Wireframe
