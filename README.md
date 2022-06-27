@@ -32,8 +32,6 @@
  * JS
  * Lombok
 
-## Installation Instructions
-
 ## Usage Instructions
  * Register
  * Login
