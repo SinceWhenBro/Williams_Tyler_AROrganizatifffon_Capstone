@@ -15,7 +15,7 @@
  * Allows artists and managers/A&R specialists to have access to new connections and rising talent all in one place
  * Admin are able to add in new managers and artists to the db to grow the community!
 #### Login
- ![login](https://user-images.githubusercontent.com/70001770/175972813-4bcb637d-22ed-4ace-8859-87c5f8433afb.PNG)
+![image](https://user-images.githubusercontent.com/70001770/176023317-889d3ba6-fc1d-47e0-83c8-ef6e9c018bcd.png)
 #### Home
 ![home](https://user-images.githubusercontent.com/70001770/176023174-96a7ce52-2a88-4c7c-9cd6-f294ba36577a.PNG)
 
