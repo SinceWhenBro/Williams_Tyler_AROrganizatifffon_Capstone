@@ -43,6 +43,7 @@
  
 ## Future Features
  * I would like to limit the view of managers and artists dependent on their assigned role through security
+ * I would also like to eventually implement a way for artists and managers to communciate
 ## Testing 
 
 ## Obstacles
