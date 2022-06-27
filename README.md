@@ -47,7 +47,13 @@
 ## Future Features
  * I would like to limit the view of managers and artists dependent on their assigned role through security
  * I would also like to eventually implement a way for artists and managers to communciate
-## Testing 
+
+## Table/ Wireframe
+#### Table
+![tabless](https://user-images.githubusercontent.com/70001770/176023554-cc389a7c-0d5d-4e70-a45f-0519e7457074.PNG)
+
+#### Wireframe
+![wireframe](https://user-images.githubusercontent.com/70001770/176023591-721d3c2b-82a5-438e-89ed-c5e601cd2c01.PNG)
 
 ## Obstacles
 * Spring Security: I had issues developing roles in order to limit access
